@@ -1,0 +1,7 @@
+/home/taylor/Software/tragediy/build/CMakeFiles/install/strip.dir
+/home/taylor/Software/tragediy/build/CMakeFiles/edit_cache.dir
+/home/taylor/Software/tragediy/build/CMakeFiles/tragediy.dir
+/home/taylor/Software/tragediy/build/CMakeFiles/rebuild_cache.dir
+/home/taylor/Software/tragediy/build/CMakeFiles/list_install_components.dir
+/home/taylor/Software/tragediy/build/CMakeFiles/install/local.dir
+/home/taylor/Software/tragediy/build/CMakeFiles/install.dir

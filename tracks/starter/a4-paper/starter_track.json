@@ -1,0 +1,1766 @@
+{
+	"left":   -1933.4,
+	"top":    -303.4,
+	"width":  2533,
+	"height": 970,
+	"0": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, 0],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, 0],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, 0],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          519.777,
+			"start_point":     [-1480, 0],
+			"start_direction": [-1, 0],
+			"radius":          -150
+		},
+		{
+			"type":            "arc",
+			"length":          273.606,
+			"start_point":     [-1432.31, 292.215],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2177.29
+		},
+		{
+			"type":            "arc",
+			"length":          861.859,
+			"start_point":     [-1168.12, 221.724],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2177.29
+		},
+		{
+			"type":            "arc",
+			"length":          273.606,
+			"start_point":     [-311.878, 221.724],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2177.29
+		},
+		{
+			"type":            "arc",
+			"length":          519.777,
+			"start_point":     [-47.695, 292.215],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -150
+		}
+	],
+	"1": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -8.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -8.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -8.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          550.617,
+			"start_point":     [-1480, -8.9],
+			"start_direction": [-1, 0],
+			"radius":          -158.9
+		},
+		{
+			"type":            "arc",
+			"length":          272.488,
+			"start_point":     [-1429.48, 300.653],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2168.39
+		},
+		{
+			"type":            "arc",
+			"length":          858.336,
+			"start_point":     [-1166.37, 230.45],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2168.39
+		},
+		{
+			"type":            "arc",
+			"length":          272.488,
+			"start_point":     [-313.628, 230.45],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2168.39
+		},
+		{
+			"type":            "arc",
+			"length":          550.617,
+			"start_point":     [-50.5249, 300.653],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -158.9
+		}
+	],
+	"2": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -17.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -17.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -17.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          581.457,
+			"start_point":     [-1480, -17.8],
+			"start_direction": [-1, 0],
+			"radius":          -167.8
+		},
+		{
+			"type":            "arc",
+			"length":          271.369,
+			"start_point":     [-1426.65, 309.091],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2159.49
+		},
+		{
+			"type":            "arc",
+			"length":          854.813,
+			"start_point":     [-1164.62, 239.177],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2159.49
+		},
+		{
+			"type":            "arc",
+			"length":          271.369,
+			"start_point":     [-315.378, 239.177],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2159.49
+		},
+		{
+			"type":            "arc",
+			"length":          581.457,
+			"start_point":     [-53.3548, 309.091],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -167.8
+		}
+	],
+	"3": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -26.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -26.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -26.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          612.297,
+			"start_point":     [-1480, -26.7],
+			"start_direction": [-1, 0],
+			"radius":          -176.7
+		},
+		{
+			"type":            "arc",
+			"length":          270.251,
+			"start_point":     [-1423.82, 317.53],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2150.59
+		},
+		{
+			"type":            "arc",
+			"length":          851.29,
+			"start_point":     [-1162.87, 247.903],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2150.59
+		},
+		{
+			"type":            "arc",
+			"length":          270.251,
+			"start_point":     [-317.128, 247.903],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2150.59
+		},
+		{
+			"type":            "arc",
+			"length":          612.297,
+			"start_point":     [-56.1847, 317.53],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -176.7
+		}
+	],
+	"4": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -35.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -35.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -35.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          643.137,
+			"start_point":     [-1480, -35.6],
+			"start_direction": [-1, 0],
+			"radius":          -185.6
+		},
+		{
+			"type":            "arc",
+			"length":          269.132,
+			"start_point":     [-1420.99, 325.968],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2141.69
+		},
+		{
+			"type":            "arc",
+			"length":          847.767,
+			"start_point":     [-1161.12, 256.629],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2141.69
+		},
+		{
+			"type":            "arc",
+			"length":          269.132,
+			"start_point":     [-318.878, 256.629],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2141.69
+		},
+		{
+			"type":            "arc",
+			"length":          643.137,
+			"start_point":     [-59.0146, 325.968],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -185.6
+		}
+	],
+	"5": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -44.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -44.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -44.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          673.977,
+			"start_point":     [-1480, -44.5],
+			"start_direction": [-1, 0],
+			"radius":          -194.5
+		},
+		{
+			"type":            "arc",
+			"length":          268.014,
+			"start_point":     [-1418.16, 334.406],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2132.79
+		},
+		{
+			"type":            "arc",
+			"length":          844.244,
+			"start_point":     [-1159.37, 265.355],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2132.79
+		},
+		{
+			"type":            "arc",
+			"length":          268.014,
+			"start_point":     [-320.628, 265.355],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2132.79
+		},
+		{
+			"type":            "arc",
+			"length":          673.977,
+			"start_point":     [-61.8445, 334.406],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -194.5
+		}
+	],
+	"6": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -53.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -53.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -53.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          704.817,
+			"start_point":     [-1480, -53.4],
+			"start_direction": [-1, 0],
+			"radius":          -203.4
+		},
+		{
+			"type":            "arc",
+			"length":          266.896,
+			"start_point":     [-1415.33, 342.844],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2123.89
+		},
+		{
+			"type":            "arc",
+			"length":          840.721,
+			"start_point":     [-1157.62, 274.082],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2123.89
+		},
+		{
+			"type":            "arc",
+			"length":          266.896,
+			"start_point":     [-322.378, 274.082],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2123.89
+		},
+		{
+			"type":            "arc",
+			"length":          704.817,
+			"start_point":     [-64.6744, 342.844],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -203.4
+		}
+	],
+	"7": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -62.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -62.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -62.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          735.657,
+			"start_point":     [-1480, -62.3],
+			"start_direction": [-1, 0],
+			"radius":          -212.3
+		},
+		{
+			"type":            "arc",
+			"length":          265.777,
+			"start_point":     [-1412.5, 351.282],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2114.99
+		},
+		{
+			"type":            "arc",
+			"length":          837.198,
+			"start_point":     [-1155.87, 282.808],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2114.99
+		},
+		{
+			"type":            "arc",
+			"length":          265.777,
+			"start_point":     [-324.128, 282.808],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2114.99
+		},
+		{
+			"type":            "arc",
+			"length":          735.657,
+			"start_point":     [-67.5043, 351.282],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -212.3
+		}
+	],
+	"8": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -71.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -71.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -71.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          766.497,
+			"start_point":     [-1480, -71.2],
+			"start_direction": [-1, 0],
+			"radius":          -221.2
+		},
+		{
+			"type":            "arc",
+			"length":          264.659,
+			"start_point":     [-1409.67, 359.72],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2106.09
+		},
+		{
+			"type":            "arc",
+			"length":          833.675,
+			"start_point":     [-1154.12, 291.534],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2106.09
+		},
+		{
+			"type":            "arc",
+			"length":          264.659,
+			"start_point":     [-325.878, 291.534],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2106.09
+		},
+		{
+			"type":            "arc",
+			"length":          766.497,
+			"start_point":     [-70.3342, 359.72],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -221.2
+		}
+	],
+	"9": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -80.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -80.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -80.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          797.337,
+			"start_point":     [-1480, -80.1],
+			"start_direction": [-1, 0],
+			"radius":          -230.1
+		},
+		{
+			"type":            "arc",
+			"length":          263.54,
+			"start_point":     [-1406.84, 368.158],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2097.19
+		},
+		{
+			"type":            "arc",
+			"length":          830.152,
+			"start_point":     [-1152.37, 300.26],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2097.19
+		},
+		{
+			"type":            "arc",
+			"length":          263.54,
+			"start_point":     [-327.628, 300.26],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2097.19
+		},
+		{
+			"type":            "arc",
+			"length":          797.337,
+			"start_point":     [-73.1641, 368.158],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -230.1
+		}
+	],
+	"10": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -89],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -89],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -89],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          828.177,
+			"start_point":     [-1480, -89],
+			"start_direction": [-1, 0],
+			"radius":          -239
+		},
+		{
+			"type":            "arc",
+			"length":          262.422,
+			"start_point":     [-1404.01, 376.596],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2088.29
+		},
+		{
+			"type":            "arc",
+			"length":          826.629,
+			"start_point":     [-1150.62, 308.987],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2088.29
+		},
+		{
+			"type":            "arc",
+			"length":          262.422,
+			"start_point":     [-329.378, 308.987],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2088.29
+		},
+		{
+			"type":            "arc",
+			"length":          828.177,
+			"start_point":     [-75.994, 376.596],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -239
+		}
+	],
+	"11": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -97.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -97.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -97.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          859.017,
+			"start_point":     [-1480, -97.9],
+			"start_direction": [-1, 0],
+			"radius":          -247.9
+		},
+		{
+			"type":            "arc",
+			"length":          261.304,
+			"start_point":     [-1401.18, 385.034],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2079.39
+		},
+		{
+			"type":            "arc",
+			"length":          823.106,
+			"start_point":     [-1148.87, 317.713],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2079.39
+		},
+		{
+			"type":            "arc",
+			"length":          261.304,
+			"start_point":     [-331.128, 317.713],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2079.39
+		},
+		{
+			"type":            "arc",
+			"length":          859.017,
+			"start_point":     [-78.8239, 385.034],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -247.9
+		}
+	],
+	"12": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -106.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -106.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -106.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          889.857,
+			"start_point":     [-1480, -106.8],
+			"start_direction": [-1, 0],
+			"radius":          -256.8
+		},
+		{
+			"type":            "arc",
+			"length":          260.185,
+			"start_point":     [-1398.35, 393.473],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2070.49
+		},
+		{
+			"type":            "arc",
+			"length":          819.583,
+			"start_point":     [-1147.12, 326.439],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2070.49
+		},
+		{
+			"type":            "arc",
+			"length":          260.185,
+			"start_point":     [-332.878, 326.439],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2070.49
+		},
+		{
+			"type":            "arc",
+			"length":          889.857,
+			"start_point":     [-81.6538, 393.473],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -256.8
+		}
+	],
+	"13": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -115.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -115.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -115.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          920.697,
+			"start_point":     [-1480, -115.7],
+			"start_direction": [-1, 0],
+			"radius":          -265.7
+		},
+		{
+			"type":            "arc",
+			"length":          259.067,
+			"start_point":     [-1395.52, 401.911],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2061.59
+		},
+		{
+			"type":            "arc",
+			"length":          816.06,
+			"start_point":     [-1145.37, 335.165],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2061.59
+		},
+		{
+			"type":            "arc",
+			"length":          259.067,
+			"start_point":     [-334.628, 335.165],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2061.59
+		},
+		{
+			"type":            "arc",
+			"length":          920.697,
+			"start_point":     [-84.4837, 401.911],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -265.7
+		}
+	],
+	"14": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -124.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -124.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -124.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          951.538,
+			"start_point":     [-1480, -124.6],
+			"start_direction": [-1, 0],
+			"radius":          -274.6
+		},
+		{
+			"type":            "arc",
+			"length":          257.948,
+			"start_point":     [-1392.69, 410.349],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2052.69
+		},
+		{
+			"type":            "arc",
+			"length":          812.537,
+			"start_point":     [-1143.62, 343.892],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2052.69
+		},
+		{
+			"type":            "arc",
+			"length":          257.948,
+			"start_point":     [-336.378, 343.892],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2052.69
+		},
+		{
+			"type":            "arc",
+			"length":          951.538,
+			"start_point":     [-87.3136, 410.349],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -274.6
+		}
+	],
+	"15": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -133.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -133.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -133.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          982.378,
+			"start_point":     [-1480, -133.5],
+			"start_direction": [-1, 0],
+			"radius":          -283.5
+		},
+		{
+			"type":            "arc",
+			"length":          256.83,
+			"start_point":     [-1389.86, 418.787],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2043.79
+		},
+		{
+			"type":            "arc",
+			"length":          809.015,
+			"start_point":     [-1141.87, 352.618],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2043.79
+		},
+		{
+			"type":            "arc",
+			"length":          256.83,
+			"start_point":     [-338.129, 352.618],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2043.79
+		},
+		{
+			"type":            "arc",
+			"length":          982.378,
+			"start_point":     [-90.1435, 418.787],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -283.5
+		}
+	],
+	"16": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -142.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -142.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -142.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1013.22,
+			"start_point":     [-1480, -142.4],
+			"start_direction": [-1, 0],
+			"radius":          -292.4
+		},
+		{
+			"type":            "arc",
+			"length":          255.712,
+			"start_point":     [-1387.03, 427.225],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2034.89
+		},
+		{
+			"type":            "arc",
+			"length":          805.492,
+			"start_point":     [-1140.12, 361.344],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2034.89
+		},
+		{
+			"type":            "arc",
+			"length":          255.712,
+			"start_point":     [-339.879, 361.344],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2034.89
+		},
+		{
+			"type":            "arc",
+			"length":          1013.22,
+			"start_point":     [-92.9734, 427.225],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -292.4
+		}
+	],
+	"17": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -151.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -151.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -151.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1044.06,
+			"start_point":     [-1480, -151.3],
+			"start_direction": [-1, 0],
+			"radius":          -301.3
+		},
+		{
+			"type":            "arc",
+			"length":          254.593,
+			"start_point":     [-1384.2, 435.663],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2025.99
+		},
+		{
+			"type":            "arc",
+			"length":          801.969,
+			"start_point":     [-1138.37, 370.07],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2025.99
+		},
+		{
+			"type":            "arc",
+			"length":          254.593,
+			"start_point":     [-341.629, 370.07],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2025.99
+		},
+		{
+			"type":            "arc",
+			"length":          1044.06,
+			"start_point":     [-95.8033, 435.663],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -301.3
+		}
+	],
+	"18": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -160.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -160.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -160.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1074.9,
+			"start_point":     [-1480, -160.2],
+			"start_direction": [-1, 0],
+			"radius":          -310.2
+		},
+		{
+			"type":            "arc",
+			"length":          253.475,
+			"start_point":     [-1381.37, 444.101],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2017.09
+		},
+		{
+			"type":            "arc",
+			"length":          798.446,
+			"start_point":     [-1136.62, 378.797],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2017.09
+		},
+		{
+			"type":            "arc",
+			"length":          253.475,
+			"start_point":     [-343.379, 378.797],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2017.09
+		},
+		{
+			"type":            "arc",
+			"length":          1074.9,
+			"start_point":     [-98.6332, 444.101],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -310.2
+		}
+	],
+	"19": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -169.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -169.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -169.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1105.74,
+			"start_point":     [-1480, -169.1],
+			"start_direction": [-1, 0],
+			"radius":          -319.1
+		},
+		{
+			"type":            "arc",
+			"length":          252.356,
+			"start_point":     [-1378.54, 452.539],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          2008.19
+		},
+		{
+			"type":            "arc",
+			"length":          794.923,
+			"start_point":     [-1134.87, 387.523],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          2008.19
+		},
+		{
+			"type":            "arc",
+			"length":          252.356,
+			"start_point":     [-345.129, 387.523],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          2008.19
+		},
+		{
+			"type":            "arc",
+			"length":          1105.74,
+			"start_point":     [-101.463, 452.539],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -319.1
+		}
+	],
+	"20": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -178],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -178],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -178],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1136.58,
+			"start_point":     [-1480, -178],
+			"start_direction": [-1, 0],
+			"radius":          -328
+		},
+		{
+			"type":            "arc",
+			"length":          251.238,
+			"start_point":     [-1375.71, 460.977],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1999.29
+		},
+		{
+			"type":            "arc",
+			"length":          791.4,
+			"start_point":     [-1133.12, 396.249],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1999.29
+		},
+		{
+			"type":            "arc",
+			"length":          251.238,
+			"start_point":     [-346.879, 396.249],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1999.29
+		},
+		{
+			"type":            "arc",
+			"length":          1136.58,
+			"start_point":     [-104.293, 460.977],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -328
+		}
+	],
+	"21": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -186.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -186.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -186.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1167.42,
+			"start_point":     [-1480, -186.9],
+			"start_direction": [-1, 0],
+			"radius":          -336.9
+		},
+		{
+			"type":            "arc",
+			"length":          250.12,
+			"start_point":     [-1372.88, 469.416],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1990.39
+		},
+		{
+			"type":            "arc",
+			"length":          787.877,
+			"start_point":     [-1131.37, 404.975],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1990.39
+		},
+		{
+			"type":            "arc",
+			"length":          250.12,
+			"start_point":     [-348.629, 404.975],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1990.39
+		},
+		{
+			"type":            "arc",
+			"length":          1167.42,
+			"start_point":     [-107.123, 469.416],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -336.9
+		}
+	],
+	"22": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -195.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -195.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -195.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1198.26,
+			"start_point":     [-1480, -195.8],
+			"start_direction": [-1, 0],
+			"radius":          -345.8
+		},
+		{
+			"type":            "arc",
+			"length":          249.001,
+			"start_point":     [-1370.05, 477.854],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1981.49
+		},
+		{
+			"type":            "arc",
+			"length":          784.354,
+			"start_point":     [-1129.62, 413.702],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1981.49
+		},
+		{
+			"type":            "arc",
+			"length":          249.001,
+			"start_point":     [-350.379, 413.702],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1981.49
+		},
+		{
+			"type":            "arc",
+			"length":          1198.26,
+			"start_point":     [-109.953, 477.854],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -345.8
+		}
+	],
+	"23": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -204.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -204.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -204.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1229.1,
+			"start_point":     [-1480, -204.7],
+			"start_direction": [-1, 0],
+			"radius":          -354.7
+		},
+		{
+			"type":            "arc",
+			"length":          247.883,
+			"start_point":     [-1367.22, 486.292],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1972.59
+		},
+		{
+			"type":            "arc",
+			"length":          780.831,
+			"start_point":     [-1127.87, 422.428],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1972.59
+		},
+		{
+			"type":            "arc",
+			"length":          247.883,
+			"start_point":     [-352.129, 422.428],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1972.59
+		},
+		{
+			"type":            "arc",
+			"length":          1229.1,
+			"start_point":     [-112.783, 486.292],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -354.7
+		}
+	],
+	"24": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -213.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -213.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -213.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1259.94,
+			"start_point":     [-1480, -213.6],
+			"start_direction": [-1, 0],
+			"radius":          -363.6
+		},
+		{
+			"type":            "arc",
+			"length":          246.764,
+			"start_point":     [-1364.39, 494.73],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1963.69
+		},
+		{
+			"type":            "arc",
+			"length":          777.308,
+			"start_point":     [-1126.12, 431.154],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1963.69
+		},
+		{
+			"type":            "arc",
+			"length":          246.764,
+			"start_point":     [-353.879, 431.154],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1963.69
+		},
+		{
+			"type":            "arc",
+			"length":          1259.94,
+			"start_point":     [-115.613, 494.73],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -363.6
+		}
+	],
+	"25": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -222.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -222.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -222.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1290.78,
+			"start_point":     [-1480, -222.5],
+			"start_direction": [-1, 0],
+			"radius":          -372.5
+		},
+		{
+			"type":            "arc",
+			"length":          245.646,
+			"start_point":     [-1361.56, 503.168],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1954.79
+		},
+		{
+			"type":            "arc",
+			"length":          773.785,
+			"start_point":     [-1124.37, 439.88],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1954.79
+		},
+		{
+			"type":            "arc",
+			"length":          245.646,
+			"start_point":     [-355.629, 439.88],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1954.79
+		},
+		{
+			"type":            "arc",
+			"length":          1290.78,
+			"start_point":     [-118.443, 503.168],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -372.5
+		}
+	],
+	"26": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -231.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -231.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -231.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1321.62,
+			"start_point":     [-1480, -231.4],
+			"start_direction": [-1, 0],
+			"radius":          -381.4
+		},
+		{
+			"type":            "arc",
+			"length":          244.528,
+			"start_point":     [-1358.73, 511.606],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1945.89
+		},
+		{
+			"type":            "arc",
+			"length":          770.262,
+			"start_point":     [-1122.62, 448.607],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1945.89
+		},
+		{
+			"type":            "arc",
+			"length":          244.528,
+			"start_point":     [-357.379, 448.607],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1945.89
+		},
+		{
+			"type":            "arc",
+			"length":          1321.62,
+			"start_point":     [-121.272, 511.606],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -381.4
+		}
+	],
+	"27": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -240.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -240.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -240.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1352.46,
+			"start_point":     [-1480, -240.3],
+			"start_direction": [-1, 0],
+			"radius":          -390.3
+		},
+		{
+			"type":            "arc",
+			"length":          243.409,
+			"start_point":     [-1355.9, 520.044],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1936.99
+		},
+		{
+			"type":            "arc",
+			"length":          766.739,
+			"start_point":     [-1120.87, 457.333],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1936.99
+		},
+		{
+			"type":            "arc",
+			"length":          243.409,
+			"start_point":     [-359.129, 457.333],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1936.99
+		},
+		{
+			"type":            "arc",
+			"length":          1352.46,
+			"start_point":     [-124.102, 520.044],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -390.3
+		}
+	],
+	"28": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -249.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -249.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -249.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1383.3,
+			"start_point":     [-1480, -249.2],
+			"start_direction": [-1, 0],
+			"radius":          -399.2
+		},
+		{
+			"type":            "arc",
+			"length":          242.291,
+			"start_point":     [-1353.07, 528.482],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1928.09
+		},
+		{
+			"type":            "arc",
+			"length":          763.216,
+			"start_point":     [-1119.12, 466.059],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1928.09
+		},
+		{
+			"type":            "arc",
+			"length":          242.291,
+			"start_point":     [-360.879, 466.059],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1928.09
+		},
+		{
+			"type":            "arc",
+			"length":          1383.3,
+			"start_point":     [-126.932, 528.482],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -399.2
+		}
+	],
+	"29": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -258.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -258.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -258.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1414.14,
+			"start_point":     [-1480, -258.1],
+			"start_direction": [-1, 0],
+			"radius":          -408.1
+		},
+		{
+			"type":            "arc",
+			"length":          241.172,
+			"start_point":     [-1350.24, 536.92],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1919.19
+		},
+		{
+			"type":            "arc",
+			"length":          759.693,
+			"start_point":     [-1117.37, 474.785],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1919.19
+		},
+		{
+			"type":            "arc",
+			"length":          241.172,
+			"start_point":     [-362.629, 474.785],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1919.19
+		},
+		{
+			"type":            "arc",
+			"length":          1414.14,
+			"start_point":     [-129.762, 536.92],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -408.1
+		}
+	],
+	"30": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -267],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -267],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -267],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1444.98,
+			"start_point":     [-1480, -267],
+			"start_direction": [-1, 0],
+			"radius":          -417
+		},
+		{
+			"type":            "arc",
+			"length":          240.054,
+			"start_point":     [-1347.41, 545.358],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1910.29
+		},
+		{
+			"type":            "arc",
+			"length":          756.17,
+			"start_point":     [-1115.62, 483.512],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1910.29
+		},
+		{
+			"type":            "arc",
+			"length":          240.054,
+			"start_point":     [-364.379, 483.512],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1910.29
+		},
+		{
+			"type":            "arc",
+			"length":          1444.98,
+			"start_point":     [-132.592, 545.358],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -417
+		}
+	],
+	"31": [
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [0, -275.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          980,
+			"start_point":     [-250, -275.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "line",
+			"length":          250,
+			"start_point":     [-1230, -275.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          1475.82,
+			"start_point":     [-1480, -275.9],
+			"start_direction": [-1, 0],
+			"radius":          -425.9
+		},
+		{
+			"type":            "arc",
+			"length":          238.935,
+			"start_point":     [-1344.58, 553.797],
+			"start_direction": [0.948102, -0.317967],
+			"radius":          1901.39
+		},
+		{
+			"type":            "arc",
+			"length":          752.647,
+			"start_point":     [-1113.87, 492.238],
+			"start_direction": [0.980478, -0.196631],
+			"radius":          1901.39
+		},
+		{
+			"type":            "arc",
+			"length":          238.935,
+			"start_point":     [-366.129, 492.238],
+			"start_direction": [0.980478, 0.196631],
+			"radius":          1901.39
+		},
+		{
+			"type":            "arc",
+			"length":          1475.82,
+			"start_point":     [-135.422, 553.797],
+			"start_direction": [0.948102, 0.317967],
+			"radius":          -425.9
+		}
+	]
+}

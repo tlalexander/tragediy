@@ -1,0 +1,286 @@
+{
+	"left":   -477.6,
+	"top":    -107.6,
+	"width":  841,
+	"height": 580,
+	"0": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -0],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          471.239,
+			"start_point":     [-220, 0],
+			"start_direction": [-1, 0],
+			"radius":          -150
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 300],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          471.239,
+			"start_point":     [-2.84217e-14, 300],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -150
+		}
+	],
+	"1": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -8.9],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          499.199,
+			"start_point":     [-220, -8.9],
+			"start_direction": [-1, 0],
+			"radius":          -158.9
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 308.9],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          499.199,
+			"start_point":     [-2.84217e-14, 308.9],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -158.9
+		}
+	],
+	"2": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -17.8],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          527.159,
+			"start_point":     [-220, -17.8],
+			"start_direction": [-1, 0],
+			"radius":          -167.8
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 317.8],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          527.159,
+			"start_point":     [-2.84217e-14, 317.8],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -167.8
+		}
+	],
+	"3": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -26.7],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          555.119,
+			"start_point":     [-220, -26.7],
+			"start_direction": [-1, 0],
+			"radius":          -176.7
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 326.7],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          555.119,
+			"start_point":     [-2.84217e-14, 326.7],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -176.7
+		}
+	],
+	"4": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -35.6],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          583.08,
+			"start_point":     [-220, -35.6],
+			"start_direction": [-1, 0],
+			"radius":          -185.6
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 335.6],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          583.08,
+			"start_point":     [-2.84217e-14, 335.6],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -185.6
+		}
+	],
+	"5": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -44.5],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          611.04,
+			"start_point":     [-220, -44.5],
+			"start_direction": [-1, 0],
+			"radius":          -194.5
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 344.5],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          611.04,
+			"start_point":     [-2.84217e-14, 344.5],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -194.5
+		}
+	],
+	"6": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -53.4],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          639,
+			"start_point":     [-220, -53.4],
+			"start_direction": [-1, 0],
+			"radius":          -203.4
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 353.4],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          639,
+			"start_point":     [-2.84217e-14, 353.4],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -203.4
+		}
+	],
+	"7": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -62.3],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          666.96,
+			"start_point":     [-220, -62.3],
+			"start_direction": [-1, 0],
+			"radius":          -212.3
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 362.3],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          666.96,
+			"start_point":     [-2.84217e-14, 362.3],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -212.3
+		}
+	],
+	"8": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -71.2],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          694.92,
+			"start_point":     [-220, -71.2],
+			"start_direction": [-1, 0],
+			"radius":          -221.2
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 371.2],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          694.92,
+			"start_point":     [-2.84217e-14, 371.2],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -221.2
+		}
+	],
+	"9": [
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [0, -80.1],
+			"start_direction": [-1, 0]
+		},
+		{
+			"type":            "arc",
+			"length":          722.88,
+			"start_point":     [-220, -80.1],
+			"start_direction": [-1, 0],
+			"radius":          -230.1
+		},
+		{
+			"type":            "line",
+			"length":          220,
+			"start_point":     [-220, 380.1],
+			"start_direction": [1, 2.44929e-16]
+		},
+		{
+			"type":            "arc",
+			"length":          722.88,
+			"start_point":     [-2.84217e-14, 380.1],
+			"start_direction": [1, 2.44929e-16],
+			"radius":          -230.1
+		}
+	]
+}
